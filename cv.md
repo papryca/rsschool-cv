@@ -42,3 +42,7 @@ University: Vitebsk State Order of Peoples' Friendship Medical University
 ### Courses:
 * Полный курс по JavaScript + React -   [Link](https://www.udemy.com/course/javascript_full/)
 * Build Responsive Real-World Websites with HTML and CSS - [Link](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+
+## English:
+EPAM English test result - B2.
+I've been studying English with a tutor for a year and a half
