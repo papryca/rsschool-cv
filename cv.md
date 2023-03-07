@@ -21,3 +21,18 @@ My strengths:
 * Git, GitHub
 * Python
 * SQL
+
+## Code example:
+```javascript
+function toCamelCase(str) {
+    str = str.split(/_|-/)
+
+    let newStr = ''
+    for (let i = 1; i < str.length; i++) {
+        let rez = str[i].charAt(0).toUpperCase() + str[i].slice(1)
+        newStr = newStr + rez
+
+    }
+    return str[0] + newStr
+}
+```
