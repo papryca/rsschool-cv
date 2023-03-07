@@ -14,3 +14,10 @@ My strengths:
 * attention to details
 * diligence
 * team work
+
+## Skills:
+* HTML5, CSS3
+* JavaScript Basics
+* Git, GitHub
+* Python
+* SQL
